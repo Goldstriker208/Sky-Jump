@@ -392,6 +392,13 @@ PlayerSettings:
       m_Width: 1024
       m_Height: 1024
       m_Kind: 4
+  - m_BuildTarget: 
+    m_Icons:
+    - serializedVersion: 2
+      m_Icon: {fileID: 2800000, guid: 9f88e1d6711034ea4933bf4f9f5dd072, type: 3}
+      m_Width: 128
+      m_Height: 128
+      m_Kind: 0
   m_BuildTargetBatching: []
   m_BuildTargetGraphicsAPIs: []
   m_BuildTargetVRSettings: []
