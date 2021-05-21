@@ -1,6 +1,6 @@
 
 # Sky Jump
-Compatbile with Windows, MacOS and iOS  
+Compatbile with Windows, macOS and iOS  
 [Download Source Code](https://github.com/Goldstriker208/Sky-Jump.git)
 
 
